@@ -2,11 +2,11 @@
 Program for calculating the payment required on an account to meet the minimum
 payment and have the resulting balance be a multiple of $100.
 
-# inputs
+# Inputs
 - Account balance in Y register.
 - Minimum payment in X register.
 
-# output
+# Output
 Payment requried to make the minimum and have the balance be a multiple of $100
 or $0.
 
