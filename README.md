@@ -7,5 +7,5 @@ I am a fan of SwissMicros HP calculator clones. I do not own any original HP cal
 # Links
 - SwissMicros Web Store: https://www.swissmicros.com/
 - SwissMicros Technical Pages: https://technical.swissmicros.com/
-- Online Encoder/Decoder: https://technical.swissmicros.com/decoders/
+- Online Encoder/Decoders: https://technical.swissmicros.com/decoders/
 - SwissMicros Forums: https://forum.swissmicros.com/
