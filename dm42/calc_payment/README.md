@@ -7,8 +7,7 @@ payment and have the resulting balance be a multiple of $100.
 - Minimum payment in X register.
 
 # Output
-Payment requried to make the minimum and have the balance be a multiple of $100
-or $0.
+Payment requried to make the minimum and have the balance be a multiple of $100.
 
 # Usage
 Run the program and input the balance and minimum payment as prompted, pressing
