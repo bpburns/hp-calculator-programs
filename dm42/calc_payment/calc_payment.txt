@@ -1,0 +1,14 @@
+00 { 41-Byte Prgm }
+01 LBL "calcpmt"
+02 "Balance?"
+03 PROMPT
+04 "Minimum?"
+05 PROMPT
+06 -
+07 LASTX
+08 X<>Y
+09 100
+10 MOD
+11 +
+12 STOP
+13 .END.
